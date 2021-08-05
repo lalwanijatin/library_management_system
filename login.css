@@ -1,0 +1,53 @@
+.input{
+width:250px;
+height:50px;
+background: transparent;
+font-size: 24px;
+text-align: center;
+border-radius: 20px; 
+top: 45%; 
+left: 41%; 
+position: absolute;
+color:#FFFFFF;
+border: 5px solid #dadada;
+}
+
+input::-webkit-input-placeholder 
+{ font-size: 24px; 
+color: #d3d3d3; }
+
+input::-webkit-input-placeholder:focus
+{ font-size: 24px; 
+color: #57FEFF; }
+
+
+
+
+
+.body{
+	/*
+background-image: url("library1.jpg");
+background-size: 100% ;
+background-repeat: no-repeat; */
+background-color:#7D1935;
+}
+
+
+.bdiv{
+	color:yellow;
+	font-size: 24px;
+	
+}
+
+#adiv{
+	color:white;
+	font-size:35px;
+	text-align:center;
+	/*background-color:white;*/
+	height:100px;
+	position:absolute;
+	top:25%;
+	width:1000px;
+	left:13.5%
+	
+}
